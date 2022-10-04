@@ -1,0 +1,20 @@
+:root {
+    --turquoise: #40e2ab;
+    --atoll: #087069;
+    --blue-whale: #042c4c;
+    --green-haze: #049c5c;
+    --eden: #145563;
+    --gossamer: #07938c;
+    --mosque: #045c6c;
+    --tarawera: #063e56;
+    --teal-blue: #06515d;
+}
+
+.twitterUserName {
+    color: var(--eden);
+}
+
+#aboutIFrame {
+    width: 100%;
+    height: auto;
+}

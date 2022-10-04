@@ -25,7 +25,7 @@ This is a solution to the [Landing Page Project from the course on asynchronism 
 ## Built with
 - Semantic HTML5 markup
 - CSS custom properties
-- CSS framework
+- Tailwind CSS
 - Flexbox
 - Mobile-first workflow
 - JS vanilla
