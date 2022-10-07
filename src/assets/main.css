@@ -10,11 +10,24 @@
     --teal-blue: #06515d;
 }
 
+
+/*
+1. position
+2. box model
+3. typography
+4. visual
+5. other
+*/
+
+/* 1 */
+
+/* 2 */
+
+/* 3 */
+
+/* 4 */
 .twitterUserName {
     color: var(--eden);
 }
 
-#aboutIFrame {
-    width: 100%;
-    height: auto;
-}
+/* 5 */

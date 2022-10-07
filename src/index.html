@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="./assets/main.css">
 
   <script src="https://cdn.tailwindcss.com"></script>
+  <script src="./assets/main.js"></script>
 </head>
 
 <body>
@@ -57,14 +58,28 @@
     </div>
   </div>
 
+
   <div class="bg-white">
     <div class="max-w-2xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
-      <h2 class="text-2xl font-extrabold tracking-tight text-gray-900">Name of the choose</h2>
-      <iframe src="./about.html" frameborder="0" id="aboutIFrame"></iframe>
+      <h2 class="text-2xl font-extrabold tracking-tight text-gray-900" id="categoryTitle">Name of the choose</h2>
+
+      <section class="category" id="category">
+        <section class="category__item category--about" id="about">
+            
+        </section>
+
+        <section class="category__item category--projects" id="projects">
+
+        </section>
+
+        <section class="category__item category--contact" id="contact">
+
+        </section>
+      </section>        
     </v>
   </div>
 
-  <div class="bg-gray-50">
+  <!-- <div class="bg-gray-50">
     <div class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8 lg:flex lg:items-center lg:justify-between">
       <h2 class="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl">
         <span class="block">Contact</span>
@@ -99,7 +114,11 @@
         </svg>
       </div>
     </div>
-  </div>
+  </div> -->
+
+  <footer class="footer">
+
+  </footer>
 </body>
 
 </html>
