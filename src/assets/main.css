@@ -8,6 +8,8 @@
     --mosque: #045c6c;
     --tarawera: #063e56;
     --teal-blue: #06515d;
+    --tw-text-opacity: 1;
+    --text: rgb(107 114 128 / var(--tw-text-opacity));
 }
 
 
@@ -20,17 +22,90 @@
 */
 
 /* 1 */
+.category__item,
+.pdfContainer {
+    display: flex;
+}
+
+.category__item {
+    flex-flow: row wrap;
+}
+
+.pdfContainer {
+    flex-flow: column;
+}
+
+
 
 /* 2 */
+.pdfContainer {
+    width: 100%;
+    gap: 20px;
+    padding: 10px 0;
+}
+
 .footer {
     height: 100px;
 }
 
+#categoryTitle {
+    margin-bottom: 20px;
+}
+
+.category--about p:nth-child(2){
+    margin-bottom: 20px;
+}
+
+.category__title {
+    margin-bottom: 7px;
+}
+
+.category--about p:nth-child(5) {
+    margin-bottom: 30px;
+}
+
+.pdfContainer__button {
+    padding: 10px 0;
+}
+.pdfContainer__pdf {
+    width: 100%;
+    height: 600px;
+}
+
 /* 3 */
+.category__title {
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.category__text {
+    text-align: justify;
+}
+
+.pdfContainer__button {
+    font-size: 1rem;
+    font-weight: 600;
+}
+
 
 /* 4 */
-.twitterUserName {
+.twitterUserName,
+.category__title {
     color: var(--eden);
+}
+
+.category__text {
+    color: var(--text);
+}
+
+.pdfContainer {
+    /* background: red; */
+}
+
+.pdfContainer__button {
+    background: var(--eden);
+    border-radius: 3px;
+    color: white;
 }
 
 .footer {
@@ -38,6 +113,14 @@
 }
 
 /* 5 */
+.pdfContainer__button:active {
+    transform: scale(.99);
+    opacity: .95;
+}
+
+.pdfContainer__button:focus {
+    outline: none;
+}
 
 @media (max-width: 768px) {
     .categorySelector {
