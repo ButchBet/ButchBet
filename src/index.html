@@ -8,8 +8,6 @@
   <link rel="stylesheet" href="./assets/main.css">
 
   <script src="https://cdn.tailwindcss.com"></script>
-  <script src="./assets/PDFjs/pdf.js" defer></script>
-  <script src="./assets/PDFjs/simple.js"></script>
   <script src="./assets/main.js" defer></script>
 </head>
 
@@ -78,8 +76,8 @@
             <p class="category__text">When I'm not reading, I'm elbowing. And when I'm not jogging, I'm spending time with loved ones or working out.</p>
 
             <div class="pdfContainer">
-                <button class="pdfContainer__button">Check my cv</button>
-                <iframe class="pdfContainer__pdf hidden" id="pdf-js-viewer" src="./assets/pdf/CV_Alejandro_Salazar.pdf" title="webviewer" frameborder="0"></iframe>
+                <button class="pdfContainer__button" id="cvButton">Check my cv</button>
+                <iframe class="pdfContainer__pdf hidden" id="pdfJsViewer" src="./assets/pdf/CV_Alejandro_Salazar.pdf" title="webviewer" frameborder="0"></iframe>
             </div>
         </section>
 
