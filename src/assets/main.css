@@ -22,6 +22,9 @@
 /* 1 */
 
 /* 2 */
+.footer {
+    height: 100px;
+}
 
 /* 3 */
 
@@ -30,4 +33,18 @@
     color: var(--eden);
 }
 
+.footer {
+    background: var(--blue-whale);
+}
+
 /* 5 */
+
+@media (max-width: 768px) {
+    .categorySelector {
+        display: flex;
+        flex-flow: row;
+        justify-content: space-between;
+        padding: 0;
+        width: 218px;
+    }
+}
