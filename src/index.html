@@ -61,10 +61,10 @@
 
   <div class="bg-white">
     <div class="max-w-2xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
-      <h2 class="text-2xl font-extrabold tracking-tight text-gray-900" id="categoryTitle">Name of the choose</h2>
+      <h2 class="text-2xl font-extrabold tracking-tight text-gray-900" id="categoryTitle">Projects</h2>
 
       <section class="category" id="category">
-        <section class="category__item category--about" id="about">
+        <section class="category__item category--about hidden" id="about">
             <h2 class="category__title">Can I help you?</h2>
 
             <p class="category__text">If you need to mock up, style, add interactivity, and create a front-end for your website, you've come to a good place.</p>
@@ -82,7 +82,30 @@
         </section>
 
         <section class="category__item category--projects" id="projects">
+            <div class="project">
+                <h2 class="project__title" id="projectTitle">Project Title</h2>
 
+                <section class="project__images" title="Product title">
+                    <img id="image" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGgAAACACAMAAADQ1dx8AAAAY1BMVEUAAAD////6+vr09PRqamqpqakzMzPs7Ozx8fHo6OjX19c3Nze9vb3c3NxAQECRkZHGxsaxsbFgYGAjIyOcnJwNDQ3Pz89MTExWVlaDg4NGRkYrKyvi4uIcHBx3d3dxcXEVFRXoVtbqAAAECklEQVRogb2b6ZqqMAyGww6KIsgmKnj/V3kYHcY2aYuW5nx/hz7v0IY0m+A5UlYWPeT6v4MTSlKf4Uc1L+gQwq8KTlAywZ843ygCQREbKOhFDp8xHBqJAy0T6CRj4JzwgHLEgaPh4Q2gFnNM1r0BlDUEZDgie5B/JJy9zwEqCMf0udqDdpTTZBygjoIuxgWWIGLZs4wvZAlSWILRtq1B2CXMik0mZw3qKWi3ssQKlFGO4YLYAIoIZ1xdYwWqMKdfOSBLUBp/z7EC3fC+fcCxAqH7wejiNoFKEXNcs+sNIMHoHvUn27YZFBfpx4tsQC+Pug9PwReLrMw7qqPT7huKJUgpP0jTNNCfmB7kZ3l9GcfxcilvKyee5MU0XOftPO/7sVDvqAaURtNdNOIp0h77oRiwR+qK22egU4iXzgpVgXVaY3e0sMp1UH5Vr50vURTy5sS7Cmrkm4OAdnvDYujf/+hNEXDJurYG0GVtNVRRm93y4rz6IEiBkQy6fbT8C8WJEqQKojaq2SlA5fo6C7UERCMBJ/p9J2B+n1n3RAIpYkJXGkRQ5treRJUCSBF7OuUsoJoPczwIxqCIcV2pCkTzVnlrNwolz0ATeeecF4jNEnrZqSoSXzeKUxk0coHEIHYGBVwcKSgHPicnl6BAWTJwohaBuHau8hCI4Vp9aodB6+GIlToPg+7ri2yE6wHg83AAl1eByS3gnfOA6SsiJShgin1IRgBMRkeKd8B055HUDXgc0IOCNInURu0xx4MHC2igIB79N5Bi62iHwYXu1BiYfCoFGXNje9EPlukipy6IyTNQp8rk63oC4kpYcOWJ6z4CUgviyl0rDMJFbGdClTTgckK4XQEeWzp+QKBpfYmdKgRiik4AGR4wJrCSPQDblTRrCCSQogPpSqEEYqyaCDYOnFWGWZMAYjykWb1QouEr0PxIqEByJZeLigUU8ERCb51Pv7UgU+XfjY7tE8S9d7OGJ8h/sIOiV2GQKUIRlLxAbIW0RcNSvCVNLccqFxC3OfyVo32exG9R8S6wc7rwZ8i/gFLOlsHkCU0Qzlc6iKBU26vcrNATQYzR0E0GqaaXnGj0ZBBXq6pJMIjptqg9AmJp7iwVB6kPy2EPqj4sR9vlr4ktgxLX0cN7/hI15V178XeV/fvu/zcS+i0Y5Lss2YipGBmccJg8PxITyOExSX0dxczJ6ojHh5Kn1FRTNG5cEUn/qZwEEJW/DvKCx2ZOR4pOKpCZdI/3XTfsY1ORlHB0I1WBZveavmwXo03aSBd34n3TgzxflQYeSzzBlUWq6Ek1VqyfRiN3xkU97XjCVdmr8jnDfF0q+r1rpB99k4arYs2PNIyDfH5+6e7NtS9Kww8iXqyyGKsqLErt0Pc/QxosaIXBIlYAAAAASUVORK5CYII=" alt="Image altern text" class="product__img">
+                    
+                    <div class="product__move">
+                        <div id="projectLeft" class="product__left"><</div>
+                        <div id="projectRight" class="product__right">></div>
+                    </div>
+                </section>
+
+                <p class="project__description">Apple, Inc. es una empresa estadounidense que diseña y produce equipos electrónicos, software y servicios en línea. Tiene su sede principal en el Apple Park, en Cupertino y la sede europea en la ciudad de Cork.​</p>
+
+                <section class="product__choose">
+                    <figure class="icons">
+                        <img src="./assets/images/github.svg" alt="GitHub icon" class="icons__img">
+                    </figure>
+
+                    <figure class="icons">
+                        <img src="./assets/images/internet.png" alt="internet icon" class="icons__img">
+                    </figure>
+                </section>
+            </div>
         </section>
 
         <section class="category__item category--contact" id="contact">
