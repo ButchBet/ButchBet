@@ -1,4 +1,4 @@
-# Platzi - Async Landing Page
+# Personal Portafolio
 
 ## Table of contents
 
@@ -10,7 +10,7 @@
 
 
 ## Overview
-This is a solution to the [Landing Page Project from the course on asynchronism with JavaScript ](https://platzi.com/cursos/asincronismo-js/).
+This is a solution to the [Landing Page Project from the course on asynchronism with JavaScript ](https://platzi.com/cursos/asincronismo-js/), however, I have created my personal protafolio instead of the Lading page.
 
 ### Screenshot
 ![Desktop Dark](./assets/desktop-dark.png)
@@ -20,7 +20,7 @@ This is a solution to the [Landing Page Project from the course on asynchronism 
 
 ### Links
 - Solution URL: [GitHub](https://github.com/ButchBet/Async-Landing-Page)
-- Live Site URL: [Async Landing Page](https://butchbet.github.io/Async-Landing-Page)
+- Live Site URL: [Personal Portafolio](https://butchbet.github.io/Async-Landing-Page)
 
 ## Built with
 - Semantic HTML5 markup
