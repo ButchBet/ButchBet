@@ -31,10 +31,11 @@
 .project__left,
 .project__right,
 .project__choose,
-.icons {
+.icons,
+.project__images {
     display: flex;
 }
-.category--item {
+.category--about {
     flex-flow: column wrap;
 }
 
@@ -51,7 +52,8 @@
 .project__left,
 .project__choose,
 .project__right,
-.icons  {
+.icons,
+.project__images  {
     flex-flow: row wrap;
 }
 
@@ -68,7 +70,8 @@
     justify-content: space-between;
 }
 
-.produce {
+.produce,
+.category--projects {
     justify-content: space-evenly;
 }
 
@@ -76,14 +79,15 @@
 .project__right,
 .project__choose,
 .icons,
-.category--projects {
+.category--projects,
+.project__images {
     align-content: center;
 }
 
 .project__left,
 .project__right,
 .icons,
-.category--projects {
+.project__images {
     justify-content: center;
 }
 
@@ -93,7 +97,6 @@
 .category--projects,
 .project__images,
 .project,
-.project__img,
 .project__move,
 .icon__img,
 .icon__access {
@@ -138,18 +141,18 @@
 }
 
 .project {
-    max-width: 320px;
+    width: 280px;
 }
 
 .project__images {
     height: 80%;
 } 
 
-.footer {
-    height: 100px;
+.project__img {
+    max-width: 100%;
+    max-height: 100%;
 }
 
-.project__img,
 .project__move,
 .project__left,
 .project__right,
@@ -178,6 +181,10 @@
     height: 90px;
 } 
 
+.footer {
+    height: 100px;
+}
+
 /* 3 */
 .category__title,
 .project__title,
@@ -194,9 +201,12 @@
 
 /* 4 */
 .twitterUserName,
-.category__title,
-.pdfContainer__button {
+.category__title {
     color: var(--eden);
+}
+
+.pdfContainer__button {
+    background: var(--eden);
 }
 
 .category__text,
@@ -217,7 +227,6 @@
     /* background: var(--teal-blue); */
     border-radius: 8px;
     box-shadow: 1px 1px 0 rgba(0, 0, 0, 0.301);
-    border: .1px solid gray;
 }
 
 .project__title {
@@ -244,9 +253,16 @@
 
 /* 5 */
 .pdfContainer__button:active,
-.icons:active {
+.icons:active,
+.project__left:active,
+.project__right:active {
     transform: scale(.99);
-    opacity: .95;
+    opacity: .9;
+}
+
+.project__left:hover,
+.project__right:hover {
+    opacity: 1;
 }
 
 .pdfContainer__button:focus {
@@ -258,6 +274,17 @@
 .icons {
     cursor: pointer;
 } 
+
+.project__left,
+.project__right {
+    user-select: none;
+}
+
+@media (max-width: 606px) {
+    .project {
+        width: 100%;
+    }
+}
 
 @media (max-width: 768px) {
     .categorySelector {

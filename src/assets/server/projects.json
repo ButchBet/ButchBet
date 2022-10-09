@@ -1,0 +1,262 @@
+{
+    "project1": {
+        "title": "JavaScript Practice",
+        "description": "This project was done to complete a course in Platzi, specifically the old JavaScript practical course. It is based on 4 modules: one of geometric shapes, another on percentages and discounts, another on the mean, median and mode and finally one on the mean and 10% of wages. This project was made with HTML, CSS, JavaScript, Bootstrap and web components.",
+        "id": 2,
+        "github": "https://github.com/ButchBet/JavaScript-Practice",
+        "live": "https://butchbet.github.io/JavaScript-Practice",
+        "images": [
+            "../images/JavaScript Practice/main.png",
+            "../images/JavaScript Practice/geometricShapes1.png",
+            "../images/JavaScript Practice/geometricShapes2.png",
+            "../images/JavaScript Practice/geometricShapes3.png",
+            "../images/JavaScript Practice/geometricShapes4.png",
+            "../images/JavaScript Practice/medianMeanAndMode1.png",
+            "../images/JavaScript Practice/medianMeanAndMode2.png",
+            "../images/JavaScript Practice/salaryAnalysis1.png",
+            "../images/JavaScript Practice/salaryAnalysis2.png",
+            "../images/JavaScript Practice/salaryAnalysis3.png",
+            "../images/JavaScript Practice/salaryAnalysis4.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts1.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts2.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts3.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts4.png"
+        ]
+    },
+    "project2": {
+        "title": "Type Ahead",
+        "description": "This project was created to put into practice my knowledge in asynchrony, it is based on a search engine that helps us find possible results, based on the typing of keywords. For this I used HTML, CSS, FlexBox, Mobile-first workflow and JavaScript.",
+        "id": 6,
+        "github": "https://github.com/ButchBet/Type-Ahead",
+        "live": "https://butchbet.github.io/Type-Ahead",
+        "images": [
+            "../images/Type Ahead/image1.png",
+            "../images/Type Ahead/image2.png",
+            "../images/Type Ahead/image3.png"
+        ]
+    },
+    "project3": {
+        "title": "Flex Panels Image Gallery",
+        "description": "This project was created in order to put into practice my knowledge in Flex Box. For that I have used HTML, Css, Flex-Box, Mobile-First workflow and JavaScript.",
+        "id": 8,
+        "github": "https://github.com/ButchBet/Flex-Panels-Image-Gallery",
+        "live": "https://butchbet.github.io/Flex-Panels-Image-Gallery",
+        "images": [
+            "../images/Flex Panels Image Gallery/desktop1.png",
+            "../images/Flex Panels Image Gallery/desktop3.png",
+            "../images/Flex Panels Image Gallery/mobile1.png",
+            "../images/Flex Panels Image Gallery/mobile.png"
+        ]
+    },
+    "project4": {
+        "title": "Yard Sale",
+        "description": "This project was created in order to put into practice multiple knowledge in web development through the creation of an electronic commerce page, clearly it is not finished yet, even so the state in which it is, is optimal to present it here. its creation uses, Html, Css, Flex-Box, Mobile-First work flow and JavaScript.",
+        "id": 1,
+        "github": "https://github.com/ButchBet/Yard-Sale",
+        "live": "https://butchbet.github.io/Yard-Sale",
+        "images": [
+            "../images/Yard Sale/desktop1.png",
+            "../images/Yard Sale/desktop2.png",
+            "../images/Yard Sale/desktop3.png",
+            "../images/Yard Sale/desktop4.png",
+            "../images/Yard Sale/desktop5.png",
+            "../images/Yard Sale/desktop6.png",
+            "../images/Yard Sale/desktop7.png",
+            "../images/Yard Sale/desktop8.png",
+            "../images/Yard Sale/desktop9.png",
+            "../images/Yard Sale/desktop10.png"
+        ]
+    },
+    "project5": {
+        "title": "JavaScript Practice",
+        "description": "This project was done to complete a course in Platzi, specifically the old JavaScript practical course. It is based on 4 modules: one of geometric shapes, another on percentages and discounts, another on the mean, median and mode and finally one on the mean and 10% of wages. This project was made with HTML, CSS, JavaScript, Bootstrap and web components.",
+        "id": 2,
+        "github": "https://github.com/ButchBet/JavaScript-Practice",
+        "live": "https://butchbet.github.io/JavaScript-Practice/",
+        "images": [
+            "../images/JavaScript Practice/main.png",
+            "../images/JavaScript Practice/geometricShapes1.png",
+            "../images/JavaScript Practice/geometricShapes2.png",
+            "../images/JavaScript Practice/geometricShapes3.png",
+            "../images/JavaScript Practice/geometricShapes4.png",
+            "../images/JavaScript Practice/medianMeanAndMode1.png",
+            "../images/JavaScript Practice/medianMeanAndMode2.png",
+            "../images/JavaScript Practice/salaryAnalysis1.png",
+            "../images/JavaScript Practice/salaryAnalysis2.png",
+            "../images/JavaScript Practice/salaryAnalysis3.png",
+            "../images/JavaScript Practice/salaryAnalysis4.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts1.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts2.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts3.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts4.png"
+        ]
+    },
+    "project6": {
+        "title": "JavaScript Practice",
+        "description": "This project was done to complete a course in Platzi, specifically the old JavaScript practical course. It is based on 4 modules: one of geometric shapes, another on percentages and discounts, another on the mean, median and mode and finally one on the mean and 10% of wages. This project was made with HTML, CSS, JavaScript, Bootstrap and web components.",
+        "id": 2,
+        "github": "https://github.com/ButchBet/JavaScript-Practice",
+        "live": "https://butchbet.github.io/JavaScript-Practice/",
+        "images": [
+            "../images/JavaScript Practice/main.png",
+            "../images/JavaScript Practice/geometricShapes1.png",
+            "../images/JavaScript Practice/geometricShapes2.png",
+            "../images/JavaScript Practice/geometricShapes3.png",
+            "../images/JavaScript Practice/geometricShapes4.png",
+            "../images/JavaScript Practice/medianMeanAndMode1.png",
+            "../images/JavaScript Practice/medianMeanAndMode2.png",
+            "../images/JavaScript Practice/salaryAnalysis1.png",
+            "../images/JavaScript Practice/salaryAnalysis2.png",
+            "../images/JavaScript Practice/salaryAnalysis3.png",
+            "../images/JavaScript Practice/salaryAnalysis4.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts1.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts2.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts3.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts4.png"
+        ]
+    },
+    "project7": {
+        "title": "JavaScript Practice",
+        "description": "This project was done to complete a course in Platzi, specifically the old JavaScript practical course. It is based on 4 modules: one of geometric shapes, another on percentages and discounts, another on the mean, median and mode and finally one on the mean and 10% of wages. This project was made with HTML, CSS, JavaScript, Bootstrap and web components.",
+        "id": 2,
+        "github": "https://github.com/ButchBet/JavaScript-Practice",
+        "live": "https://butchbet.github.io/JavaScript-Practice/",
+        "images": [
+            "../images/JavaScript Practice/main.png",
+            "../images/JavaScript Practice/geometricShapes1.png",
+            "../images/JavaScript Practice/geometricShapes2.png",
+            "../images/JavaScript Practice/geometricShapes3.png",
+            "../images/JavaScript Practice/geometricShapes4.png",
+            "../images/JavaScript Practice/medianMeanAndMode1.png",
+            "../images/JavaScript Practice/medianMeanAndMode2.png",
+            "../images/JavaScript Practice/salaryAnalysis1.png",
+            "../images/JavaScript Practice/salaryAnalysis2.png",
+            "../images/JavaScript Practice/salaryAnalysis3.png",
+            "../images/JavaScript Practice/salaryAnalysis4.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts1.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts2.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts3.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts4.png"
+        ]
+    },
+    "project8": {
+        "title": "JavaScript Practice",
+        "description": "This project was done to complete a course in Platzi, specifically the old JavaScript practical course. It is based on 4 modules: one of geometric shapes, another on percentages and discounts, another on the mean, median and mode and finally one on the mean and 10% of wages. This project was made with HTML, CSS, JavaScript, Bootstrap and web components.",
+        "id": 2,
+        "github": "https://github.com/ButchBet/JavaScript-Practice",
+        "live": "https://butchbet.github.io/JavaScript-Practice/",
+        "images": [
+            "../images/JavaScript Practice/main.png",
+            "../images/JavaScript Practice/geometricShapes1.png",
+            "../images/JavaScript Practice/geometricShapes2.png",
+            "../images/JavaScript Practice/geometricShapes3.png",
+            "../images/JavaScript Practice/geometricShapes4.png",
+            "../images/JavaScript Practice/medianMeanAndMode1.png",
+            "../images/JavaScript Practice/medianMeanAndMode2.png",
+            "../images/JavaScript Practice/salaryAnalysis1.png",
+            "../images/JavaScript Practice/salaryAnalysis2.png",
+            "../images/JavaScript Practice/salaryAnalysis3.png",
+            "../images/JavaScript Practice/salaryAnalysis4.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts1.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts2.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts3.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts4.png"
+        ]
+    },
+    "project9": {
+        "title": "JavaScript Practice",
+        "description": "This project was done to complete a course in Platzi, specifically the old JavaScript practical course. It is based on 4 modules: one of geometric shapes, another on percentages and discounts, another on the mean, median and mode and finally one on the mean and 10% of wages. This project was made with HTML, CSS, JavaScript, Bootstrap and web components.",
+        "id": 2,
+        "github": "https://github.com/ButchBet/JavaScript-Practice",
+        "live": "https://butchbet.github.io/JavaScript-Practice/",
+        "images": [
+            "../images/JavaScript Practice/main.png",
+            "../images/JavaScript Practice/geometricShapes1.png",
+            "../images/JavaScript Practice/geometricShapes2.png",
+            "../images/JavaScript Practice/geometricShapes3.png",
+            "../images/JavaScript Practice/geometricShapes4.png",
+            "../images/JavaScript Practice/medianMeanAndMode1.png",
+            "../images/JavaScript Practice/medianMeanAndMode2.png",
+            "../images/JavaScript Practice/salaryAnalysis1.png",
+            "../images/JavaScript Practice/salaryAnalysis2.png",
+            "../images/JavaScript Practice/salaryAnalysis3.png",
+            "../images/JavaScript Practice/salaryAnalysis4.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts1.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts2.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts3.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts4.png"
+        ]
+    },
+    "project10": {
+        "title": "JavaScript Practice",
+        "description": "This project was done to complete a course in Platzi, specifically the old JavaScript practical course. It is based on 4 modules: one of geometric shapes, another on percentages and discounts, another on the mean, median and mode and finally one on the mean and 10% of wages. This project was made with HTML, CSS, JavaScript, Bootstrap and web components.",
+        "id": 2,
+        "github": "https://github.com/ButchBet/JavaScript-Practice",
+        "live": "https://butchbet.github.io/JavaScript-Practice/",
+        "images": [
+            "../images/JavaScript Practice/main.png",
+            "../images/JavaScript Practice/geometricShapes1.png",
+            "../images/JavaScript Practice/geometricShapes2.png",
+            "../images/JavaScript Practice/geometricShapes3.png",
+            "../images/JavaScript Practice/geometricShapes4.png",
+            "../images/JavaScript Practice/medianMeanAndMode1.png",
+            "../images/JavaScript Practice/medianMeanAndMode2.png",
+            "../images/JavaScript Practice/salaryAnalysis1.png",
+            "../images/JavaScript Practice/salaryAnalysis2.png",
+            "../images/JavaScript Practice/salaryAnalysis3.png",
+            "../images/JavaScript Practice/salaryAnalysis4.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts1.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts2.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts3.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts4.png"
+        ]
+    },
+    "project11": {
+        "title": "JavaScript Practice",
+        "description": "This project was done to complete a course in Platzi, specifically the old JavaScript practical course. It is based on 4 modules: one of geometric shapes, another on percentages and discounts, another on the mean, median and mode and finally one on the mean and 10% of wages. This project was made with HTML, CSS, JavaScript, Bootstrap and web components.",
+        "id": 2,
+        "github": "https://github.com/ButchBet/JavaScript-Practice",
+        "live": "https://butchbet.github.io/JavaScript-Practice/",
+        "images": [
+            "../images/JavaScript Practice/main.png",
+            "../images/JavaScript Practice/geometricShapes1.png",
+            "../images/JavaScript Practice/geometricShapes2.png",
+            "../images/JavaScript Practice/geometricShapes3.png",
+            "../images/JavaScript Practice/geometricShapes4.png",
+            "../images/JavaScript Practice/medianMeanAndMode1.png",
+            "../images/JavaScript Practice/medianMeanAndMode2.png",
+            "../images/JavaScript Practice/salaryAnalysis1.png",
+            "../images/JavaScript Practice/salaryAnalysis2.png",
+            "../images/JavaScript Practice/salaryAnalysis3.png",
+            "../images/JavaScript Practice/salaryAnalysis4.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts1.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts2.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts3.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts4.png"
+        ]
+    },
+    "project12": {
+        "title": "JavaScript Practice",
+        "description": "This project was done to complete a course in Platzi, specifically the old JavaScript practical course. It is based on 4 modules: one of geometric shapes, another on percentages and discounts, another on the mean, median and mode and finally one on the mean and 10% of wages. This project was made with HTML, CSS, JavaScript, Bootstrap and web components.",
+        "id": 2,
+        "github": "https://github.com/ButchBet/JavaScript-Practice",
+        "live": "https://butchbet.github.io/JavaScript-Practice/",
+        "images": [
+            "../images/JavaScript Practice/main.png",
+            "../images/JavaScript Practice/geometricShapes1.png",
+            "../images/JavaScript Practice/geometricShapes2.png",
+            "../images/JavaScript Practice/geometricShapes3.png",
+            "../images/JavaScript Practice/geometricShapes4.png",
+            "../images/JavaScript Practice/medianMeanAndMode1.png",
+            "../images/JavaScript Practice/medianMeanAndMode2.png",
+            "../images/JavaScript Practice/salaryAnalysis1.png",
+            "../images/JavaScript Practice/salaryAnalysis2.png",
+            "../images/JavaScript Practice/salaryAnalysis3.png",
+            "../images/JavaScript Practice/salaryAnalysis4.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts1.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts2.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts3.png",
+            "../images/JavaScript Practice/percentagesAndDiscounts4.png"
+        ]
+    }
+}
