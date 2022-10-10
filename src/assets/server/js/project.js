@@ -7,6 +7,9 @@ class Project extends HTMLElement {
         // Prevent to repit the fetch petition
         this.change = false;
 
+        // Prevent the initialization of of the image with the index 0 
+        this.loadedImages = false;
+
         // Identify the item that we will get
         this.id = this.getAttribute('value');
 
@@ -75,7 +78,6 @@ class Project extends HTMLElement {
 
             .project__left,
             .project__right,
-            .icons,
             .project__images {
                 justify-content: center;
             }
@@ -84,7 +86,8 @@ class Project extends HTMLElement {
             .project,
             .project__move,
             .icon__img,
-            .icon__access {
+            .icon__access,
+            .icons__img {
                 width: 100%;
             }
 
@@ -113,7 +116,8 @@ class Project extends HTMLElement {
             .project__left,
             .project__right,
             .icon__img,
-            .icon__access { 
+            .icon__access,
+            .icons__img { 
                 height: 100%;
             } 
             
@@ -135,6 +139,7 @@ class Project extends HTMLElement {
             .icons {
                 width: 90px;
                 height: 90px;
+                margin: 0;
             } 
 
             .project__title {
@@ -264,31 +269,40 @@ class Project extends HTMLElement {
                     }
                 })
                 .catch((error) => console.log(error.status))
-        } 
+        } else {
+            // Re initialization of the main variables of the project card
+            this.title = this.object.title;
+            this.description = this.object.description;
+            this.gitHub = this.object.github;
+            this.live = this.object.live;
+            
+            if(!this.loadedImages) {
+                this.index = 0;
+                this.images = this.object.images;
+                this.image = this.images[this.index];
+                this.loadedImages = true;
+            }
 
-        // Re initialization of the main variables of the project card
-        this.index = 0;
-        this.title = this.object.title;
-        this.images = this.object.images;
-        this.image = this.images[this.index];
-        this.description = this.object.description;
-        this.gitHub = this.object.github;
-        this.live = this.object.live;
+            // console.log(this.images);
+            // console.log(this.image);
+            // console.log(this.index)
 
-        this.render();
+            this.render();
+    
+            // Getting the left ands right buttons
+            this.left = this.shadowRoot.getElementById("left");
+    
+            this.right = this.shadowRoot.getElementById("right");
+    
+            // Adding evending to move thought the images
+            this.left.onclick = () => this.goLeft();
+    
+            this.right.onclick = () => this.goRight();
+    
+            // Getting the image element
+            this.imageElement = this.shadowRoot.getElementById("image");
+        }
 
-        // Getting the left ands right buttons
-        this.left = this.shadowRoot.getElementById("left");
-
-        this.right = this.shadowRoot.getElementById("right");
-
-        // Adding evending to move thought the images
-        this.left.onclick = () => this.goLeft();
-
-        this.right.onclick = () => this.goRight();
-
-        // Getting the image element
-        this.imageElement = this.shadowRoot.getElementById("image");
     }
 
     disconnectedCallback() {}
@@ -304,8 +318,8 @@ class Project extends HTMLElement {
                     <img src="${this.image}" class="project__img" alt="Image of the product" id="image">
                     
                     <div class="project__move">
-                        <div id="projectLeft" class="project__left" id="left"><</div>
-                        <div id="projectRight" class="project__right" id="right">></div>
+                        <div class="project__left" id="left"><</div>
+                        <div class="project__right" id="right">></div>
                     </div>
                 </section>
 
