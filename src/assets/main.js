@@ -1,8 +1,13 @@
+import './server/js/project.js';
+
 const aboutSelector = document.getElementById('aboutSelector');
 const porjectsSelector = document.getElementById('porjectsSelector');
 const contactSelector = document.getElementById('contactSelector');
 const cvButton = document.getElementById('cvButton');
 const pdfJsViewer = document.getElementById('pdfJsViewer');
+const projects = document.getElementById('projects');
+
+const fileReference = "./server/json/projects.json"; 
 
 // Script to prevent the default behavour of some elements
 [aboutSelector, porjectsSelector, contactSelector].forEach((element) => {
@@ -32,3 +37,5 @@ const pdfJsViewer = document.getElementById('pdfJsViewer');
         }    
     });
 });
+
+

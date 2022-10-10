@@ -6,21 +6,21 @@
         "github": "https://github.com/ButchBet/JavaScript-Practice",
         "live": "https://butchbet.github.io/JavaScript-Practice",
         "images": [
-            "../images/JavaScript Practice/main.png",
-            "../images/JavaScript Practice/geometricShapes1.png",
-            "../images/JavaScript Practice/geometricShapes2.png",
-            "../images/JavaScript Practice/geometricShapes3.png",
-            "../images/JavaScript Practice/geometricShapes4.png",
-            "../images/JavaScript Practice/medianMeanAndMode1.png",
-            "../images/JavaScript Practice/medianMeanAndMode2.png",
-            "../images/JavaScript Practice/salaryAnalysis1.png",
-            "../images/JavaScript Practice/salaryAnalysis2.png",
-            "../images/JavaScript Practice/salaryAnalysis3.png",
-            "../images/JavaScript Practice/salaryAnalysis4.png",
-            "../images/JavaScript Practice/percentagesAndDiscounts1.png",
-            "../images/JavaScript Practice/percentagesAndDiscounts2.png",
-            "../images/JavaScript Practice/percentagesAndDiscounts3.png",
-            "../images/JavaScript Practice/percentagesAndDiscounts4.png"
+            "./assets/images/JavaScript Practice/main.png",
+            "./assets/images/JavaScript Practice/geometricShapes1.png",
+            "./assets/images/JavaScript Practice/geometricShapes2.png",
+            "./assets/images/JavaScript Practice/geometricShapes3.png",
+            "./assets/images/JavaScript Practice/geometricShapes4.png",
+            "./assets/images/JavaScript Practice/medianMeanAndMode1.png",
+            "./assets/images/JavaScript Practice/medianMeanAndMode2.png",
+            "./assets/images/JavaScript Practice/salaryAnalysis1.png",
+            "./assets/images/JavaScript Practice/salaryAnalysis2.png",
+            "./assets/images/JavaScript Practice/salaryAnalysis3.png",
+            "./assets/images/JavaScript Practice/salaryAnalysis4.png",
+            "./assets/images/JavaScript Practice/percentagesAndDiscounts1.png",
+            "./assets/images/JavaScript Practice/percentagesAndDiscounts2.png",
+            "./assets/images/JavaScript Practice/percentagesAndDiscounts3.png",
+            "./assets/images/JavaScript Practice/percentagesAndDiscounts4.png"
         ]
     },
     "project2": {
@@ -30,9 +30,9 @@
         "github": "https://github.com/ButchBet/Type-Ahead",
         "live": "https://butchbet.github.io/Type-Ahead",
         "images": [
-            "../images/Type Ahead/image1.png",
-            "../images/Type Ahead/image2.png",
-            "../images/Type Ahead/image3.png"
+            "./assets/images/Type Ahead/image1.png",
+            "./assets/images/Type Ahead/image2.png",
+            "./assets/images/Type Ahead/image3.png"
         ]
     },
     "project3": {
@@ -42,10 +42,10 @@
         "github": "https://github.com/ButchBet/Flex-Panels-Image-Gallery",
         "live": "https://butchbet.github.io/Flex-Panels-Image-Gallery",
         "images": [
-            "../images/Flex Panels Image Gallery/desktop1.png",
-            "../images/Flex Panels Image Gallery/desktop3.png",
-            "../images/Flex Panels Image Gallery/mobile1.png",
-            "../images/Flex Panels Image Gallery/mobile.png"
+            "./assets/images/Flex Panels Image Gallery/desktop1.png",
+            "./assets/images/Flex Panels Image Gallery/desktop3.png",
+            "./assets/images/Flex Panels Image Gallery/mobile1.png",
+            "./assets/images/Flex Panels Image Gallery/mobile.png"
         ]
     },
     "project4": {
@@ -55,16 +55,16 @@
         "github": "https://github.com/ButchBet/Yard-Sale",
         "live": "https://butchbet.github.io/Yard-Sale",
         "images": [
-            "../images/Yard Sale/desktop1.png",
-            "../images/Yard Sale/desktop2.png",
-            "../images/Yard Sale/desktop3.png",
-            "../images/Yard Sale/desktop4.png",
-            "../images/Yard Sale/desktop5.png",
-            "../images/Yard Sale/desktop6.png",
-            "../images/Yard Sale/desktop7.png",
-            "../images/Yard Sale/desktop8.png",
-            "../images/Yard Sale/desktop9.png",
-            "../images/Yard Sale/desktop10.png"
+            "./assets/images/Yard Sale/desktop1.png",
+            "./assets/images/Yard Sale/desktop2.png",
+            "./assets/images/Yard Sale/desktop3.png",
+            "./assets/images/Yard Sale/desktop4.png",
+            "./assets/images/Yard Sale/desktop5.png",
+            "./assets/images/Yard Sale/desktop6.png",
+            "./assets/images/Yard Sale/desktop7.png",
+            "./assets/images/Yard Sale/desktop8.png",
+            "./assets/images/Yard Sale/desktop9.png",
+            "./assets/images/Yard Sale/desktop10.png"
         ]
     },
     "project5": {
@@ -74,14 +74,14 @@
         "github": "https://github.com/ButchBet/Rock-Paper-and-Scissors-",
         "live": "https://butchbet.github.io/Rock-Paper-and-Scissors-",
         "images": [
-            "../images/Rock Paper and Scrissors/desktop1.png",
-            "../images/Rock Paper and Scrissors/desktop2.png",
-            "../images/Rock Paper and Scrissors/desktop3.png",
-            "../images/Rock Paper and Scrissors/desktop4.png",
-            "../images/Rock Paper and Scrissors/mobile1.png",
-            "../images/Rock Paper and Scrissors/mobile2.png",
-            "../images/Rock Paper and Scrissors/mobile3.png",
-            "../images/Rock Paper and Scrissors/mobile4.png"
+            "./assets/images/Rock Paper and Scrissors/desktop1.png",
+            "./assets/images/Rock Paper and Scrissors/desktop2.png",
+            "./assets/images/Rock Paper and Scrissors/desktop3.png",
+            "./assets/images/Rock Paper and Scrissors/desktop4.png",
+            "./assets/images/Rock Paper and Scrissors/mobile1.png",
+            "./assets/images/Rock Paper and Scrissors/mobile2.png",
+            "./assets/images/Rock Paper and Scrissors/mobile3.png",
+            "./assets/images/Rock Paper and Scrissors/mobile4.png"
         ]
     },
     "project6": {
@@ -91,8 +91,8 @@
         "github": "https://github.com/ButchBet/Playing-with-CSS-variables-and-JS",
         "live": "https://butchbet.github.io/Playing-with-CSS-variables-and-JS",
         "images": [
-            "../images/Playing With CSS Variables And JS/desktop.png",
-            "../images/Playing With CSS Variables And JS/mobile.png"
+            "./assets/images/Playing With CSS Variables And JS/desktop.png",
+            "./assets/images/Playing With CSS Variables And JS/mobile.png"
         ]
     },
     "project7": {
@@ -102,19 +102,19 @@
         "github": "https://github.com/ButchBet/BataBit",
         "live": "https://butchbet.github.io/BataBit/",
         "images": [
-            "../images/Batabit/desktop1.png",
-            "../images/Batabit/desktop2.png",
-            "../images/Batabit/desktop3.png",
-            "../images/Batabit/desktop4.png",
-            "../images/Batabit/desktop5.png",
-            "../images/Batabit/desktop6.png",
-            "../images/Batabit/desktop7.png",
-            "../images/Batabit/mobile1.png",
-            "../images/Batabit/mobile2.png",
-            "../images/Batabit/mobile3.png",
-            "../images/Batabit/mobile4.png",
-            "../images/Batabit/mobile5.png",
-            "../images/Batabit/mobile6.png"
+            "./assets/images/Batabit/desktop1.png",
+            "./assets/images/Batabit/desktop2.png",
+            "./assets/images/Batabit/desktop3.png",
+            "./assets/images/Batabit/desktop4.png",
+            "./assets/images/Batabit/desktop5.png",
+            "./assets/images/Batabit/desktop6.png",
+            "./assets/images/Batabit/desktop7.png",
+            "./assets/images/Batabit/mobile1.png",
+            "./assets/images/Batabit/mobile2.png",
+            "./assets/images/Batabit/mobile3.png",
+            "./assets/images/Batabit/mobile4.png",
+            "./assets/images/Batabit/mobile5.png",
+            "./assets/images/Batabit/mobile6.png"
         ]
     },
     "project8": {
@@ -124,10 +124,10 @@
         "github": "https://github.com/ButchBet/Google-Clone",
         "live": "https://butchbet.github.io/Google-Clone/",
         "images": [
-            "../images/Google Clone/desktop-dark.png",
-            "../images/Google Clone/desktop-light.png",
-            "../images/Google Clone/mobile-dark.png",
-            "../images/Google Clone/mobile-light.png"
+            "./assets/images/Google Clone/desktop-dark.png",
+            "./assets/images/Google Clone/desktop-light.png",
+            "./assets/images/Google Clone/mobile-dark.png",
+            "./assets/images/Google Clone/mobile-light.png"
         ]
     },
     "project9": {
@@ -137,8 +137,8 @@
         "github": "https://github.com/ButchBet/JS-and-CSS-Clock",
         "live": "https://butchbet.github.io/JS-and-CSS-Clock",
         "images": [
-            "../images/Js And Css Clock/desktop.png",
-            "../images/Js And Css Clock/mobile.png"
+            "./assets/images/Js And Css Clock/desktop.png",
+            "./assets/images/Js And Css Clock/mobile.png"
         ]
     },
     "project10": {
@@ -148,8 +148,8 @@
         "github": "https://github.com/ButchBet/JavaScript-Drum-Kit",
         "live": "https://butchbet.github.io/JavaScript-Drum-Kit/",
         "images": [
-            "../images/JavaScript Drum Kit/desktop.png",
-            "../images/JavaScript Drum Kit/mobile.png"
+            "./assets/images/JavaScript Drum Kit/desktop.png",
+            "./assets/images/JavaScript Drum Kit/mobile.png"
         ]
     },
     "project11": {
@@ -159,8 +159,8 @@
         "github": "https://github.com/ButchBet/QR-code-component-solution",
         "live": "https://butchbet.github.io/QR-code-component-solution",
         "images": [
-            "../images/QR Code Component Solution/desktop-design.png",
-            "../images/QR Code Component Solution/mobile-design.png"
+            "./assets/images/QR Code Component Solution/desktop-design.png",
+            "./assets/images/QR Code Component Solution/mobile-design.png"
         ]
     },
     "project12": {
@@ -170,11 +170,11 @@
         "github": "https://github.com/ButchBet/Platzi-main-interface",
         "live": "https://butchbet.github.io/Platzi-main-interface",
         "images": [
-            "../images/Platzi Main Interface/desktop.png",
-            "../images/Platzi Main Interface/mobile1.png",
-            "../images/Platzi Main Interface/mobile2.png",
-            "../images/Platzi Main Interface/mobile3.png",
-            "../images/Platzi Main Interface/mobile4.png"
+            "./assets/images/Platzi Main Interface/desktop.png",
+            "./assets/images/Platzi Main Interface/mobile1.png",
+            "./assets/images/Platzi Main Interface/mobile2.png",
+            "./assets/images/Platzi Main Interface/mobile3.png",
+            "./assets/images/Platzi Main Interface/mobile4.png"
         ]
     }
 }
