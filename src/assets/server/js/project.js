@@ -277,16 +277,24 @@ class Project extends HTMLElement {
             this.live = this.object.live;
             
             if(!this.loadedImages) {
-                this.index = 0;
                 this.images = this.object.images;
+                
+                // this.index = 0;
+                // this.image = this.images[this.index];
+                // for(let img in this.images) {
+                //     this.goLeft();
+                //     this.render();
+                // }
+
+                this.index = 0;
                 this.image = this.images[this.index];
+
                 this.loadedImages = true;
             }
 
             // console.log(this.images);
             // console.log(this.image);
             // console.log(this.index)
-
             this.render();
     
             // Getting the left ands right buttons
