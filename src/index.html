@@ -33,7 +33,7 @@
               <div class="categorySelector md:block md:ml-10 md:pr-4 md:space-x-8">
                 <a href="about" class="font-medium text-gray-500 hover:text-gray-900" id="aboutSelector">About</a>
                 <a href="projects" class="font-medium text-gray-500 hover:text-gray-900" id="porjectsSelector">Projects</a>
-                <a href="contact" class="font-medium text-gray-500 hover:text-gray-900" id="contactSelector">Contact</a>
+                <a href="contact" class="font-medium text-gray-500 hover:text-gray-900 hidden" id="contactSelector">Contact</a>
               </div>
             </nav>
           </div>
@@ -64,7 +64,7 @@
       <h2 class="text-2xl font-extrabold tracking-tight text-gray-900" id="categoryTitle">Projects</h2>
 
       <section class="category" id="category">
-        <section class="category__item category--about hidden" id="about">
+        <section class="category__item category--about" id="about">
             <h2 class="category__title">Can I help you?</h2>
 
             <p class="category__text">If you need to mock up, style, add interactivity, or create a front-end for your website, you've come to a good place.</p>
@@ -81,7 +81,7 @@
             </div>
         </section>
 
-        <section class="category__item category--projects" id="projects">
+        <section class="category__item category--projects hidden" id="projects">
             <app-project fileReference="./assets/server/json/projects.json" value="1"></app-project>
 
             <app-project fileReference="./assets/server/json/projects.json" value="2"></app-project>

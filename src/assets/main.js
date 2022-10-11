@@ -1,25 +1,22 @@
 import './server/js/project.js';
 
 const aboutSelector = document.getElementById('aboutSelector');
+const about = document.getElementById('about');
 const porjectsSelector = document.getElementById('porjectsSelector');
+const projects = document.getElementById('projects');
 const contactSelector = document.getElementById('contactSelector');
+const contact = document.getElementById('contact');
 const cvButton = document.getElementById('cvButton');
 const pdfJsViewer = document.getElementById('pdfJsViewer');
-const projects = document.getElementById('projects');
+const categoryTitle = document.getElementById('categoryTitle');
 
 const fileReference = "./server/json/projects.json"; 
 
-// Script to prevent the default behavour of some elements
-[aboutSelector, porjectsSelector, contactSelector].forEach((element) => {
+// Script to create the insteraction in some elements when get clicked
+[aboutSelector, porjectsSelector, contactSelector, cvButton].forEach((element) => {
     element.addEventListener('click', (e) => {
         e.preventDefault();
-        alert('Hello world');
-    });
-});
 
-// Script to create the insteraction in some elements when get clicked
-[cvButton,].forEach((element) => {
-    element.addEventListener('click', (e) => {
         switch (e.target.id) {
             case 'cvButton':
                     pdfJsViewer.classList.toggle('hidden');
@@ -31,7 +28,20 @@ const fileReference = "./server/json/projects.json";
                         cvButton.textContent = 'Check my cv';
                     }
                 break;
-    
+
+            case 'aboutSelector':
+                    if(about.classList.contains('hidden')) {
+                        about.classList.toggle('hidden');
+                        projects.classList.toggle('hidden');
+                    } 
+                break;
+            
+            case 'porjectsSelector':
+                    if(projects.classList.contains('hidden')) {
+                        projects.classList.toggle('hidden');
+                        about.classList.toggle('hidden');
+                    }
+                break;
             default:
                 break;
         }    
