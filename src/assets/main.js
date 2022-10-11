@@ -31,6 +31,7 @@ const fileReference = "./server/json/projects.json";
 
             case 'aboutSelector':
                     if(about.classList.contains('hidden')) {
+                        categoryTitle.textContent = 'About';
                         about.classList.toggle('hidden');
                         projects.classList.toggle('hidden');
                     } 
@@ -38,6 +39,7 @@ const fileReference = "./server/json/projects.json";
             
             case 'porjectsSelector':
                     if(projects.classList.contains('hidden')) {
+                        categoryTitle.textContent = 'Projects';
                         projects.classList.toggle('hidden');
                         about.classList.toggle('hidden');
                     }

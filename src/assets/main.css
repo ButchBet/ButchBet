@@ -139,8 +139,9 @@
     .categorySelector {
         display: flex;
         flex-flow: row;
-        justify-content: space-between;
+        justify-content: flex-end;
         padding: 0;
+        gap: 20px;
         width: 218px;
     }
 }
