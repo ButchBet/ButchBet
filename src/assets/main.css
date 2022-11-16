@@ -61,6 +61,10 @@
     justify-content: flex-end;
 }
 
+.pdfContainer__button a {
+    display: block;
+}
+
 /* 2 */
 .pdfContainer,
 .pdfContainer,
@@ -86,12 +90,17 @@
     margin-bottom: 30px;
 }
 
-.pdfContainer__button,
+.pdfContainer__button a,
 .pdfContainer {
     padding: 10px 0;
 }
 .pdfContainer__pdf {
     height: 600px;
+}
+
+.pdfContainer__button a {
+    width: 100%;
+    height: 100%;
 }
 
 .category--projects {
@@ -126,10 +135,6 @@
 .pdfContainer__button {
     font-size: 1rem;
     font-weight: 600;
-}
-
-.pdfContainer__button {
-    text-align: center;
 }
 
 .category__text {
