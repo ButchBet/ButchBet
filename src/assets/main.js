@@ -6,28 +6,28 @@ const porjectsSelector = document.getElementById('porjectsSelector');
 const projects = document.getElementById('projects');
 const contactSelector = document.getElementById('contactSelector');
 const contact = document.getElementById('contact');
-const cvButton = document.getElementById('cvButton');
+// const cvButton = document.getElementById('cvButton');
 const pdfJsViewer = document.getElementById('pdfJsViewer');
 const categoryTitle = document.getElementById('categoryTitle');
 
 const fileReference = "./server/json/projects.json"; 
 
 // Script to create the insteraction in some elements when get clicked
-[aboutSelector, porjectsSelector, contactSelector, cvButton].forEach((element) => {
+[aboutSelector, porjectsSelector, contactSelector].forEach((element) => {
     element.addEventListener('click', (e) => {
         e.preventDefault();
 
         switch (e.target.id) {
-            case 'cvButton':
-                    pdfJsViewer.classList.toggle('hidden');
+            // case 'cvButton':
+                    // pdfJsViewer.classList.toggle('hidden');
 
-                    // condition to change the text contenct in the cv button
-                    if(!pdfJsViewer.classList.contains('hidden')) {
-                        cvButton.textContent = 'Hidde my cv';
-                    } else {
-                        cvButton.textContent = 'Check my cv';
-                    }
-                break;
+                    // // condition to change the text contenct in the cv button
+                    // if(!pdfJsViewer.classList.contains('hidden')) {
+                    //     cvButton.textContent = 'Hidde my cv';
+                    // } else {
+                    //     cvButton.textContent = 'Check my cv';
+                    // }
+                // break;
 
             case 'aboutSelector':
                     if(about.classList.contains('hidden')) {
