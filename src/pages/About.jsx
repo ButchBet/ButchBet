@@ -1,5 +1,7 @@
 import React from "react";
 
+import Header from "@containers/Header";
+
 import "@styles/about.css";
 
 import pdf from "@pdf/CV_Alejandro_Salazar.pdf";
