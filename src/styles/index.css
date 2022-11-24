@@ -105,11 +105,15 @@
 }
 
 .category--projects {
-    gap: 5px;
+    gap: 60px 5px;
 }
 
 .category--projects {
     padding: 5px;
+}
+
+.projects {
+
 }
 
 .footer {

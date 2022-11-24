@@ -1,6 +1,6 @@
 import React from "react";
 
-const useGetProjects = (API) => {
+const useGetProjects = (API, setMethod) => {
     let req = new XMLHttpRequest();
 
     req.responseType = "json";
@@ -14,8 +14,10 @@ const useGetProjects = (API) => {
         for(let key in jsonFile) {
         data.push(jsonFile[key]);
         }
+
+        data.sort((a, b) => a.id - b.id);
         
-        return data;
+        setMethod(data);
     }
     };
 
