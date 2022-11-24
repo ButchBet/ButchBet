@@ -4,16 +4,20 @@ import Project from "@components/Project";
 
 import useGetProjects from "@hooks/useGetProjects";
 
+import projectsFromServer from "@server/json/projects.json";
+
 import "@styles/projects.css";
 
 const Projects = () => {
-    const API = "https://api.jsonbin.io/v3/b/637ddfa70e6a79321e528058";
+    const projects = [];
+    
+    for(let key in projectsFromServer) {
+        projects.push(projectsFromServer[key]);
+    }
 
+    projects.sort((a, b) => a.id - b.id);
 
-    const [projects, setProjects] = React.useState([]);
-
-    useGetProjects(API, setProjects);
-
+    console.log(projects);
     return (
         <section className="category__item category--projects" id="projects">
             {projects.map((project) => {
