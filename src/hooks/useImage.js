@@ -1,11 +1,11 @@
-import { useEffect, useState } from 'react'
+import React from 'react'
 
 const useImage = (fileName) => {
-    const [loading, setLoading] = useState(true)
-    const [error, setError] = useState(null)
-    const [image, setImage] = useState(null)
+    const [loading, setLoading] = React.useState(true)
+    const [error, setError] = React.useState(null)
+    const [image, setImage] = React.useState(null)
 
-    useEffect(() => {
+    React.useEffect(() => {
         const fetchImage = async () => {
             try {
                 const response = await import(fileName) // change relative path to suit your needs

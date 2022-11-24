@@ -24,7 +24,8 @@ module.exports = {
             "@hooks": path.resolve(__dirname, "src/hooks"),
             "@context": path.resolve(__dirname, "src/context"),
             "@server": path.resolve(__dirname, "src/server"),
-            "@pdf": path.resolve(__dirname, "src/assets/pdf")
+            "@pdf": path.resolve(__dirname, "src/assets/pdf"),
+            "@context": path.resolve(__dirname, "src/context")
         },
 
     },

@@ -6,175 +6,185 @@
         "github": "https://github.com/ButchBet/JavaScript-Practice",
         "live": "https://butchbet.github.io/JavaScript-Practice",
         "images": [
-            "./assets/images/JavaScript Practice/main.png",
-            "./assets/images/JavaScript Practice/geometricShapes1.png",
-            "./assets/images/JavaScript Practice/geometricShapes2.png",
-            "./assets/images/JavaScript Practice/geometricShapes3.png",
-            "./assets/images/JavaScript Practice/geometricShapes4.png",
-            "./assets/images/JavaScript Practice/medianMeanAndMode1.png",
-            "./assets/images/JavaScript Practice/medianMeanAndMode2.png",
-            "./assets/images/JavaScript Practice/salaryAnalysis1.png",
-            "./assets/images/JavaScript Practice/salaryAnalysis2.png",
-            "./assets/images/JavaScript Practice/salaryAnalysis3.png",
-            "./assets/images/JavaScript Practice/salaryAnalysis4.png",
-            "./assets/images/JavaScript Practice/percentagesAndDiscounts1.png",
-            "./assets/images/JavaScript Practice/percentagesAndDiscounts2.png",
-            "./assets/images/JavaScript Practice/percentagesAndDiscounts3.png",
-            "./assets/images/JavaScript Practice/percentagesAndDiscounts4.png"
+            "https://i.postimg.cc/5tQdFWc2/geometric-Shapes1.png",
+            "https://i.postimg.cc/TYQXzcqf/geometric-Shapes2.png",
+            "https://i.postimg.cc/FHBXRsB6/geometric-Shapes3.png",
+            "https://i.postimg.cc/13tZsNJ6/geometric-Shapes4.png",
+            "https://i.postimg.cc/63CkYVps/main.png",
+            "https://i.postimg.cc/DZVVrpFd/median-Mean-And-Mode1.png",
+            "https://i.postimg.cc/5y1ZGHXX/median-Mean-And-Mode2.png",
+            "https://i.postimg.cc/mkw0Gb98/percentages-And-Discounts1.png",
+            "https://i.postimg.cc/0NwFyGm6/percentages-And-Discounts2.png",
+            "https://i.postimg.cc/vBwjg1L0/percentages-And-Discounts3.png",
+            "https://i.postimg.cc/XNkM5gPd/percentages-And-Discounts4.png",
+            "https://i.postimg.cc/MpXghJpm/salary-Analysis1.png",
+            "https://i.postimg.cc/g251ptwF/salary-Analysis2.png",
+            "https://i.postimg.cc/xT6Wx1nd/salary-Analysis3.png",
+            "https://i.postimg.cc/5N4hSCcG/salary-Analysis4.png"
         ]
     },
     "project2": {
         "title": "Type Ahead",
         "description": "This project was created to put into practice my knowledge in asynchrony, it is based on a search engine that helps us find possible results, based on the typing of keywords. For this I used HTML, CSS, FlexBox, Mobile-first workflow and JavaScript.",
-        "id": 6,
+        "id": 7,
         "github": "https://github.com/ButchBet/Type-Ahead",
         "live": "https://butchbet.github.io/Type-Ahead",
         "images": [
-            "./assets/images/Type Ahead/image1.png",
-            "./assets/images/Type Ahead/image2.png",
-            "./assets/images/Type Ahead/image3.png"
+            "https://i.postimg.cc/h4Ns12yh/image1.png",
+            "https://i.postimg.cc/dQhnCb9z/image2.png",
+            "https://i.postimg.cc/Dysgj1H6/image3.png"
         ]
     },
     "project3": {
         "title": "Flex Panels Image Gallery",
         "description": "This project was created in order to put into practice my knowledge in Flex Box. For that I have used HTML, Css, Flex-Box, Mobile-First workflow and JavaScript.",
-        "id": 8,
+        "id": 9,
         "github": "https://github.com/ButchBet/Flex-Panels-Image-Gallery",
         "live": "https://butchbet.github.io/Flex-Panels-Image-Gallery",
         "images": [
-            "./assets/images/Flex Panels Image Gallery/desktop1.png",
-            "./assets/images/Flex Panels Image Gallery/desktop2.png",
-            "./assets/images/Flex Panels Image Gallery/mobile1.png",
-            "./assets/images/Flex Panels Image Gallery/mobile2.png"
+            "https://i.postimg.cc/RV56DvCw/desktop1.png",
+            "https://i.postimg.cc/q7Rz3RQH/desktop2.png",
+            "https://i.postimg.cc/jdHwVBCm/mobile1.png",
+            "https://i.postimg.cc/sg3B3KhX/mobile2.png"
         ]
     },
     "project4": {
         "title": "Yard Sale",
-        "description": "This project was created in order to put into practice multiple knowledge in web development through the creation of an electronic commerce page, clearly it is not finished yet, even so the state in which it is, is optimal to present it here. its creation uses, Html, Css, Flex-Box, Mobile-First work flow and JavaScript.",
+        "description": "This project was created in order to put into practice multiple knowledge in web development through the creation of an electronic commerce page, clearly it is not finished yet, even so the state in which it is, is optimal to present it here. For that I have used HTML, Css, Flex-Box, Mobile-First workflow, JavaScript, Webcomponents, React.js and Webpack.",
         "id": 1,
         "github": "https://github.com/ButchBet/Yard-Sale",
-        "live": "https://butchbet.github.io/Yard-Sale",
+        "live": "https://637b1645bc18636d6bf9eb27--neon-starlight-a63879.netlify.app/",
         "images": [
-            "./assets/images/Yard Sale/desktop1.png",
-            "./assets/images/Yard Sale/desktop2.png",
-            "./assets/images/Yard Sale/desktop3.png",
-            "./assets/images/Yard Sale/desktop4.png",
-            "./assets/images/Yard Sale/desktop5.png",
-            "./assets/images/Yard Sale/desktop6.png",
-            "./assets/images/Yard Sale/desktop7.png",
-            "./assets/images/Yard Sale/desktop8.png",
-            "./assets/images/Yard Sale/desktop9.png",
-            "./assets/images/Yard Sale/desktop10.png"
+            "https://i.postimg.cc/s2pC3BM4/desktop1.png",
+            "https://i.postimg.cc/dtxY6cMr/desktop10.png",
+            "https://i.postimg.cc/3R1MDPCy/desktop2.png",
+            "https://i.postimg.cc/sXsdxVSd/desktop3.png",
+            "https://i.postimg.cc/5y2h5nns/desktop4.png",
+            "https://i.postimg.cc/Gh2Rvhfb/desktop5.png",
+            "https://i.postimg.cc/7hPksxYM/desktop6.png",
+            "https://i.postimg.cc/kGjdLk2r/desktop7.png",
+            "https://i.postimg.cc/wxFHts0W/desktop8.png",
+            "https://i.postimg.cc/x1NSFpY7/desktop9.png"
         ]
     },
     "project5": {
         "title": "Rock Paper And Scissors",
         "description": "This project was created to put into practice multiple knowledge in web development, through a small video game called rock paper scissors, I must clarify that in the section of uploading a user icon I have it in development. For this I used HTML, Css, Mobile-First workflow and JavaScript.",
-        "id": 3,
+        "id": 4,
         "github": "https://github.com/ButchBet/Rock-Paper-and-Scissors-",
         "live": "https://butchbet.github.io/Rock-Paper-and-Scissors-",
         "images": [
-            "./assets/images/Rock Paper and Scrissors/desktop1.png",
-            "./assets/images/Rock Paper and Scrissors/desktop2.png",
-            "./assets/images/Rock Paper and Scrissors/desktop3.png",
-            "./assets/images/Rock Paper and Scrissors/desktop4.png",
-            "./assets/images/Rock Paper and Scrissors/mobile1.png",
-            "./assets/images/Rock Paper and Scrissors/mobile2.png",
-            "./assets/images/Rock Paper and Scrissors/mobile3.png",
-            "./assets/images/Rock Paper and Scrissors/mobile4.png"
+            "https://i.postimg.cc/13rQDnK7/desktop1.png",
+            "https://i.postimg.cc/jjqrcxgx/desktop2.png",
+            "https://i.postimg.cc/xCcVrsVB/desktop3.png",
+            "https://i.postimg.cc/pT4bPD2r/desktop4.png",
+            "https://i.postimg.cc/RC24mzFd/mobile1.png",
+            "https://i.postimg.cc/mkvd5jT3/mobile2.png",
+            "https://i.postimg.cc/44Ysj3Jn/mobile3.png",
+            "https://i.postimg.cc/rwkTdC5t/mobile4.png"
         ]
     },
     "project6": {
         "title": "Playing With CSS Variables And JS",
         "description": "This project was created to put into practice multiple knowledge in web development, through selectors which will be graduating the value of the padding, blur and color property. For this I used HTML, Css, Mobile-First workflow and JavaScript.",
-        "id": 11,
+        "id": 12,
         "github": "https://github.com/ButchBet/Playing-with-CSS-variables-and-JS",
         "live": "https://butchbet.github.io/Playing-with-CSS-variables-and-JS",
         "images": [
-            "./assets/images/Playing With CSS Variables And JS/desktop.png",
-            "./assets/images/Playing With CSS Variables And JS/mobile.png"
+            "https://i.postimg.cc/ZY8yBjdr/desktop.png",
+            "https://i.postimg.cc/Znx9GKSf/mobile.png"
         ]
     },
     "project7": {
         "title": "Batabit",
         "description": "This is a landing page for a project that brings real time information of the most important exchange houses and currencies in the world. For this I used HTML, Css, Flex-Box, mobile-first workflow and JavaScript.",
-        "id": 5,
+        "id": 6,
         "github": "https://github.com/ButchBet/BataBit",
         "live": "https://butchbet.github.io/BataBit/",
         "images": [
-            "./assets/images/Batabit/desktop1.png",
-            "./assets/images/Batabit/desktop2.png",
-            "./assets/images/Batabit/desktop3.png",
-            "./assets/images/Batabit/desktop4.png",
-            "./assets/images/Batabit/desktop5.png",
-            "./assets/images/Batabit/desktop6.png",
-            "./assets/images/Batabit/desktop7.png",
-            "./assets/images/Batabit/mobile1.png",
-            "./assets/images/Batabit/mobile2.png",
-            "./assets/images/Batabit/mobile3.png",
-            "./assets/images/Batabit/mobile4.png",
-            "./assets/images/Batabit/mobile5.png",
-            "./assets/images/Batabit/mobile6.png"
+            "https://i.postimg.cc/4dsxsxM9/desktop1.png",
+            "https://i.postimg.cc/pdDLwF0v/desktop2.png",
+            "https://i.postimg.cc/5yt9Qkf9/desktop3.png",
+            "https://i.postimg.cc/bJgNJjcF/desktop4.png",
+            "https://i.postimg.cc/x1NCP7Mc/desktop5.png",
+            "https://i.postimg.cc/ydHkxPJW/desktop6.png",
+            "https://i.postimg.cc/Jn5tkkJx/desktop7.png",
+            "https://i.postimg.cc/QxtVFVMg/mobile1.png",
+            "https://i.postimg.cc/J0TnTCpB/mobile2.png",
+            "https://i.postimg.cc/fW5JWYMT/mobile3.png",
+            "https://i.postimg.cc/28Kyhmqs/mobile4.png",
+            "https://i.postimg.cc/R0r0pRLG/mobile5.png",
+            "https://i.postimg.cc/2yjyFS7D/mobile6.png"
         ]
     },
     "project8": {
         "title": "Google Clone",
         "description": "This is a project created to clone the Google graphical interface. It was created with HTML, Css, Flex-Box, mobile-first workflow and JavaScript.",
-        "id": 10,
+        "id": 11,
         "github": "https://github.com/ButchBet/Google-Clone",
         "live": "https://butchbet.github.io/Google-Clone/",
         "images": [
-            "./assets/images/Google Clone/desktop-dark.png",
-            "./assets/images/Google Clone/desktop-light.png",
-            "./assets/images/Google Clone/mobile-dark.png",
-            "./assets/images/Google Clone/mobile-light.png"
+            "https://i.postimg.cc/VNDZK7jb/desktop-dark.png",
+            "https://i.postimg.cc/LX5CwzTQ/desktop-light.png",
+            "https://i.postimg.cc/Bn5VKZbp/mobile-dark.png",
+            "https://i.postimg.cc/VNYHByb8/mobile-light.png"
         ]
     },
     "project9": {
         "title": "Js And Css Clock",
         "description": "In this project I make a clock that uses the API Data() to make its respective movement shortened to the current time of the computer from where it is opened. For this, I have used HTML, Css, Flex-Box, Mobile-First workflow and JavaScript.",
-        "id": 7,
+        "id": 8,
         "github": "https://github.com/ButchBet/JS-and-CSS-Clock",
         "live": "https://butchbet.github.io/JS-and-CSS-Clock",
         "images": [
-            "./assets/images/Js And Css Clock/desktop.png",
-            "./assets/images/Js And Css Clock/mobile.png"
+            "https://i.postimg.cc/zD6XfNy3/desktop.png",
+            "https://i.postimg.cc/Hnqpvwqb/mobile.png"
         ]
     },
     "project10": {
         "title": "JavaScript Drum Kit",
         "description": "This project is based on a set of buttons that when pressed will trigger an audio representing an instrument. For this I used HTML, Css, Flex-Box, Mobile-First Workflow and JavaScript.",
-        "id": 4,
+        "id": 5,
         "github": "https://github.com/ButchBet/JavaScript-Drum-Kit",
         "live": "https://butchbet.github.io/JavaScript-Drum-Kit/",
         "images": [
-            "./assets/images/JavaScript Drum Kit/desktop.png",
-            "./assets/images/JavaScript Drum Kit/mobile.png"
+            "https://i.postimg.cc/2SvVdMN2/desktop.png",
+            "https://i.postimg.cc/zDtbqTkS/mobile.png"
         ]
     },
     "project11": {
         "title": "QR Code Component Solution",
         "description": "This project is based on a component to scan a QR code. For this, I used HTML, CSS, Flex-Box and Mobile-First Workflow.",
-        "id": 9,
+        "id": 10,
         "github": "https://github.com/ButchBet/QR-code-component-solution",
         "live": "https://butchbet.github.io/QR-code-component-solution",
         "images": [
-            "./assets/images/QR Code Component Solution/desktop-design.png",
-            "./assets/images/QR Code Component Solution/mobile-design.png"
+            "https://i.postimg.cc/BvFvWQ5x/desktop-design.png",
+            "https://i.postimg.cc/g2Q0B6hz/mobile-design.png"
         ]
     },
     "project12": {
         "title": "Platzi Main Interface ",
         "description": "This project is based on one of the interfaces that Platzi had. For this, I used HTML, Css, Flex-Box and Mobile-First workflow.",
-        "id": 12,
+        "id": 13,
         "github": "https://github.com/ButchBet/Platzi-main-interface",
         "live": "https://butchbet.github.io/Platzi-main-interface",
         "images": [
-            "./assets/images/Platzi Main Interface/desktop.png",
-            "./assets/images/Platzi Main Interface/mobile1.png",
-            "./assets/images/Platzi Main Interface/mobile2.png",
-            "./assets/images/Platzi Main Interface/mobile3.png",
-            "./assets/images/Platzi Main Interface/mobile4.png"
+            "https://i.postimg.cc/c1rbdgty/desktop.png",
+            "https://i.postimg.cc/9074fQVt/mobile1.png"
+        ]
+    },
+    "project13": {
+        "title": "Products APP",
+        "description": "JavaScript application created to modulate a shopping list, with the name of the product, the quantity, the price per unit, the price per set and the time of addition. It also includes an option to remove a specific item or the entire list. For that I have used HTML, Css, Flex-Box, Mobile-First workflow, JavaScript, Webcomponets, React.js and Webpack.",
+        "id": 3,
+        "github": "https://github.com/ButchBet/products-app",
+        "live": "https://637f103f0d13ba0009d8ce85--neon-puffpuff-d87d40.netlify.app/",
+        "images": [
+            "https://i.postimg.cc/zG7BSXw7/desktop-Add.png",
+            "https://i.postimg.cc/GpppMwqC/desktop-Delete.png",
+            "https://i.postimg.cc/3xYNvDGW/mobile-Add.png",
+            "https://i.postimg.cc/MKyXHYvh/mobile-Delete.png"
         ]
     }
 }

@@ -6,7 +6,7 @@ import github from "@images/github.svg";
 import live from "@images/internet.png";
 import image from "@images/JavaScript Practice/main.png";
 
-import useImage from "@hooks/useImage"
+// import useImage from "@hooks/useImage"
 
 const Project = ({project}) => {
     // const images = project.images.map((fileName) => ({image, loading, error} = useImage(fileName)));
@@ -19,8 +19,8 @@ const Project = ({project}) => {
             
             <section className="project__images" title="project title">
                 {/* {loading
-                    ? <p>Loading</p>
-                    : <img src={image} className="project__img" alt="Image of the product" id="image" />} */}
+                    ? <p>Loading</p> */}
+                    {/* : <img src={image} className="project__img" alt="Image of the product" id="image" />} */}
                 <img src={image} className="project__img" alt="Image of the product" id="image" />
                 
                 <div className="project__move">
