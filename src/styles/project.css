@@ -64,6 +64,7 @@
 
 .project {
     width: 280px;
+    gap: 40px
 }
 
 .project__images {

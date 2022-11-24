@@ -16,8 +16,6 @@ const Projects = () => {
     }
 
     projects.sort((a, b) => a.id - b.id);
-
-    console.log(projects);
     return (
         <section className="category__item category--projects" id="projects">
             {projects.map((project) => {
