@@ -30,9 +30,9 @@ const Contact = () => {
 
                     <input type="email" className="contactForm__input" name="email" placeholder="example@gmail.com"/>
 
-                    <textarea className="contactFromAddInfo" name="reason" placeholder="I'm contacting you in order to..."/>
+                    <textarea className="contactForm__reason" name="reason" placeholder="I'm contacting you in order to..."/>
 
-                    <button onClick={catchData}>Submit</button>
+                    <button className="contactForm__button" onClick={catchData}>Submit</button>
                 </form>
             </section>
         </div>

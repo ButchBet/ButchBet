@@ -1,0 +1,41 @@
+.contactForm {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-between;
+    width: 100%;
+    gap: 30px;
+}
+.contactForm__input,
+.contactForm__reason,
+.contactForm__button {
+    width: 100%;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.contactForm__input,
+.contactForm__reason {
+    border: 1px solid var(--eden);
+}
+
+.contactForm__button {
+    background: var(--eden);
+    color: white;
+    font-weight: bold;
+}
+
+.contactForm__button:active {
+    transform: scale(.98);
+}
+
+.contactForm__button:hover {
+    background: var(--teal-blue);
+}
+
+.contactForm__input:focus,
+.contactForm__reason:focus {
+    border: 0;
+    outline: 1px solid var(--turquoise);
+} 
+
+
