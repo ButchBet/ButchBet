@@ -1,3 +1,15 @@
 .footer {
+    flex-flow: row wrap;
+    display: flex;
+    padding: 30px 1.5rem;
+    background: var(--blue-whale);
+    justify-content: center;
+    align-content: center;
     color: var(--white);
+}
+
+@media (max-width: 468px) {
+    .footer {
+        gap: 30px;
+    }
 }

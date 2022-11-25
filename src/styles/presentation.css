@@ -3,3 +3,7 @@
     flex-flow: column;
     text-align: center;
 }
+
+.twitterUserName {
+    color: var(--eden);
+}

@@ -1,0 +1,18 @@
+.footer__list {
+    justify-content: flex-end;
+    width: 50%;
+    gap: 30px;
+}
+
+.footer__item {
+    font-size: 1rem;
+    font-weight: 600;
+}
+@media (max-width: 468px) {
+    .footer__list {
+        width: 100%;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-between;
+    }
+}
