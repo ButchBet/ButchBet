@@ -5,8 +5,11 @@ const initialState = {
 }
 
 const useInititalState = () => {
-    
-    return true;
+    const [title, setTitle] = React.useState('About');
+    return {
+        title,
+        setTitle
+    };
 }
 
 export default useInititalState;

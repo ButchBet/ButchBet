@@ -1,5 +1,7 @@
 import React from "react";
 
+import AppContext from "@context/AppContext";
+
 import "@styles/navigator.css";
 
 const Navigator = () => {
@@ -7,7 +9,7 @@ const Navigator = () => {
         <nav className="relative flex items-center justify-between sm:h-10 lg:justify-start" aria-label="Global">
             <div className="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
                 <div className="flex items-center justify-between w-full md:w-auto">
-                    <a href="#">
+                    <a href="/about">
                     <span className="sr-only">Title</span>
         
                     <img className="h-8 w-auto sm:h-10" src="https://cdn-icons-png.flaticon.com/512/2115/2115955.png" />
