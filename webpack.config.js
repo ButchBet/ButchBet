@@ -22,12 +22,15 @@ module.exports = {
             "@routes": path.resolve(__dirname, "src/routes"),
             "@pages": path.resolve(__dirname, "src/pages"),
             "@hooks": path.resolve(__dirname, "src/hooks"),
+            "@context": path.resolve(__dirname, "src/context"),
+            "@server": path.resolve(__dirname, "src/server"),
+            "@pdf": path.resolve(__dirname, "src/assets/pdf"),
             "@context": path.resolve(__dirname, "src/context")
         },
 
     },
 
-    mode: 'development',
+    mode: 'production',
 
     module: {
         rules: [
@@ -55,10 +58,10 @@ module.exports = {
             },
 
             {
-                test: /\.(png|svg|jp?g|gif)$/i,
+                test: /\.(png|svg|jp?g|gif|pdf)$/i,
                 use: [
                     {
-                      loader: 'url-loader',
+                      loader: 'file-loader',
                       options: {
                         limit: 10000
                       }
