@@ -1,3 +1,8 @@
 .notFoundContainer__img {
     filter: invert(24%) sepia(89%) saturate(370%) hue-rotate(143deg) brightness(98%) contrast(97%);
 }
+
+.notFoundContainer__figure {
+    display: flex;
+    justify-content: center;
+}

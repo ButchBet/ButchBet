@@ -1,0 +1,29 @@
+.header,
+.headerPresentation {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.header {
+    justify-content: center;
+}
+
+.headerPresentation {
+    max-width: 80rem;
+}
+
+.presentationContainer {
+    padding: 0;
+}
+
+.header,
+.headerPresentation__first,
+.header__first {
+    width: 100%;
+}
+
+@media (min-width: 1024px) {
+    .headerPresentation__first {
+        width: 50%;
+    }
+}

@@ -7,7 +7,7 @@ import pdf from "@pdf/CV_Alejandro_Salazar.pdf";
 const About = () => {
     return (
         <div className="aboutContainer">
-            <h2 className="text-2xl font-extrabold tracking-tight text-gray-900" id="categoryTitle">About</h2>
+            {/* <h2 className="text-2xl font-extrabold tracking-tight text-gray-900" id="categoryTitle">About</h2> */}
 
             <section className="category__item category--about" id="about">            
                 <h2 className="category__title">Can I help you?</h2>

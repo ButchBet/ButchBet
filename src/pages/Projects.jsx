@@ -25,7 +25,7 @@ const Projects = () => {
     return (
         
         <ProjectContext.Provider value={changeImage}>
-            <h2 className="text-2xl font-extrabold tracking-tight text-gray-900" id="categoryTitle">Projects</h2>
+            {/* <h2 className="text-2xl font-extrabold tracking-tight text-gray-900" id="categoryTitle">Projects</h2> */}
             
             <section className="category__item category--projects" id="projects">
                 {projects.map((project) => {

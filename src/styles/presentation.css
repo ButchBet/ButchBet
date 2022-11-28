@@ -1,9 +1,19 @@
-.name {
+.name,
+.main__first {
     display: flex;
     flex-flow: column;
     text-align: center;
 }
 
+.main__first {
+    align-items: center;
+}
+
 .twitterUserName {
     color: var(--eden);
 }
+
+.presentation__text {
+    width: 100%;
+}
+

@@ -1,0 +1,29 @@
+.personalImage {
+    /* width: 100%; */
+    height: 28rem;
+    padding-top: 1.5rem;
+}
+
+.personalImage__img {
+    width: 35rem;
+    height: 100%;
+    border-radius: 8px;
+}
+
+
+@media (max-width: 467px) {
+    .personalImage {
+        height: 18rem;
+    }
+}
+
+@media (min-width: 1024px) {
+    .personalImage {
+        width: 50%;
+    }
+
+    .personalImage {
+        height: 474px;
+    }
+}
+
