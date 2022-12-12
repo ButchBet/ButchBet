@@ -18,6 +18,8 @@ const About = () => {
                 
                 <p className="category__text">Like all creatives, I am always thinking about the best way to improve a website, constantly learning about topics that are eating away at my head and excited to generate knowledge on my own.</p>
                 
+                <p className="category__text">Apart from web development, I like the field of customer service. I found it working in my last job, trying to find the best way to improve people's lives, with quick solutions and assertive answers.</p>
+                
                 <p className="category__text">When I'm not reading, I'm elbowing. And when I'm not jogging, I'm spending time with loved ones or working out.</p>
                 
                 <div className="pdfContainer">
