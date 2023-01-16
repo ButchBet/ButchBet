@@ -179,7 +179,7 @@
         "description": "JavaScript application created to modulate a shopping list, with the name of the product, the quantity, the price per unit, the price per set and the time of addition. It also includes an option to remove a specific item or the entire list. For that I have used HTML, Css, Flex-Box, Mobile-First workflow, JavaScript, Webcomponets, React.js and Webpack.",
         "id": 4,
         "github": "https://github.com/ButchBet/products-app",
-        "live": "https://637f103f0d13ba0009d8ce85--neon-puffpuff-d87d40.netlify.app/",
+        "live": "https://products-app-butchbet.netlify.app",
         "images": [
             "https://i.postimg.cc/zG7BSXw7/desktop-Add.png",
             "https://i.postimg.cc/GpppMwqC/desktop-Delete.png",
