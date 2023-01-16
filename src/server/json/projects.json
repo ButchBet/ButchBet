@@ -53,7 +53,7 @@
         "description": "This project was created in order to put into practice multiple knowledge in web development through the creation of an electronic commerce page, clearly it is not finished yet, even so the state in which it is, is optimal to present it here. For that I have used HTML, Css, Flex-Box, Mobile-First workflow, JavaScript, Webcomponents, React.js and Webpack.",
         "id": 1,
         "github": "https://github.com/ButchBet/Yard-Sale",
-        "live": "https://637b1645bc18636d6bf9eb27--neon-starlight-a63879.netlify.app/",
+        "live": "https://yardsalebutchbet.vercel.app",
         "images": [
             "https://i.postimg.cc/s2pC3BM4/desktop1.png",
             "https://i.postimg.cc/dtxY6cMr/desktop10.png",

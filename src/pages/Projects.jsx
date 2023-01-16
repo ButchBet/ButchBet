@@ -29,11 +29,9 @@ const Projects = () => {
             
             <section className="category__item category--projects" id="projects">
                 {projects.map((project) => {
-                    if(project.id !== 1) {
-                        return (
-                            <Project key={project.id} project={project} />
-                        )
-                    }
+                    return (
+                        <Project key={project.id} project={project} />
+                    )
                 })}
             </section>
         </ProjectContext.Provider>
