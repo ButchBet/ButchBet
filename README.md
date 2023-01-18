@@ -24,7 +24,7 @@ This is my repository, in order to create a visual presentation of myself and my
 
 ### Links
 - Solution URL: [GitHub](https://github.com/ButchBet/ButchBet)
-- Live Site URL: [ButchBet]()
+- Live Site URL: [ButchBet](https://www.butchbet.co/)
 
 ## Built with
 - Semantic HTML5 markup
@@ -34,7 +34,8 @@ This is my repository, in order to create a visual presentation of myself and my
 - Mobile-first workflow
 - JS vanilla
 - Webpack
+- Reactjs
 
 ## Author
-- Website - [Butchbet](none)
+- Website - [Butchbet](https://www.butchbet.co/)
 - Twitter - [@JustButchBet](https://twitter.com/JustButchBet)
