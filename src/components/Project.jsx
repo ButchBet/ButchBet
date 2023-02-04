@@ -55,23 +55,27 @@ const Project = ({project}) => {
             <section className="technologies">
                 {
                     project.technologies.map((technology) => {
-                        return (<img src={
-                            technology.toLowerCase() === "html"
-                            ? html5
-                            : technology.toLowerCase() === "css"
-                            ? css
-                            : technology.toLowerCase() === "javascript"
-                            ? javascript
-                            : technology.toLowerCase() === "bootstrap"
-                            ? bootstrap
-                            : technology.toLowerCase() === "webcomponents"
-                            ? webcomponents
-                            : technology.toLowerCase() === "reactjs"
-                            ? reactjs
-                            : technology.toLowerCase() === "webpack"
-                            ? webpack
-                            : "Error"
-                        } alt={`${technology} Icon`} className="technologies__item"  key={`item__${technology.toLowerCase()}`} title={technology} />)
+                        return (
+                            <figure className="technology" title={technology} key={`item__${technology.toLowerCase()}`} >
+                                <img src={
+                                    technology.toLowerCase() === "html"
+                                    ? html5
+                                    : technology.toLowerCase() === "css"
+                                    ? css
+                                    : technology.toLowerCase() === "javascript"
+                                    ? javascript
+                                    : technology.toLowerCase() === "bootstrap"
+                                    ? bootstrap
+                                    : technology.toLowerCase() === "webcomponents"
+                                    ? webcomponents
+                                    : technology.toLowerCase() === "reactjs"
+                                    ? reactjs
+                                    : technology.toLowerCase() === "webpack"
+                                    ? webpack
+                                    : "Error"
+                                } alt={`${technology} Icon`} className="technology__img"/>
+                            </figure>
+                        )
                     })
                 }
             </section>

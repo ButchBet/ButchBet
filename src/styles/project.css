@@ -4,7 +4,8 @@
 .project__right,
 .project__choose,
 .icons,
-.project__images {
+.project__images,
+.technologies {
     display: flex;
 }
 
@@ -16,7 +17,8 @@
 .project__left,
 .project__right,
 .icons,
-.project__images  {
+.project__images,
+.technologies  {
     flex-flow: row wrap;
 }     
 
@@ -32,6 +34,10 @@
 .project__choose,
 .project {
     justify-content: space-between;
+}
+
+.technologies {
+    justify-content: flex-start;
 }
 
 .project__left,
@@ -54,17 +60,27 @@
 .project__move,
 .icon__img,
 .icon__access,
-.icons__img {
+.icons__img,
+.technology__img {
     width: 100%;
 }
+
 
 .project {
     padding: 17px;
 }
 
+.technology {
+    width: 40px;
+}
+
 .project {
     width: 280px;
-    gap: 40px
+    gap: 15px
+}
+
+.technologies {
+    gap: 10px;
 }
 
 .project__images {
@@ -100,8 +116,7 @@
 }
 
 .icons {
-    width: 90px;
-    height: 90px;
+    width: 70px;
     margin: 0;
 } 
 
