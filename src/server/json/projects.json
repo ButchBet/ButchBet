@@ -69,7 +69,7 @@
             "https://i.postimg.cc/wxFHts0W/desktop8.png",
             "https://i.postimg.cc/x1NSFpY7/desktop9.png"
         ],
-        "technologies": ["Html", "Css", "JavaScript", "React.js", "Webpack"]
+        "technologies": ["Html", "Css", "JavaScript", "Reactjs", "Webpack"]
     },
     "project5": {
         "title": "Rock Paper And Scissors",
@@ -198,7 +198,7 @@
             "https://i.postimg.cc/3xYNvDGW/mobile-Add.png",
             "https://i.postimg.cc/MKyXHYvh/mobile-Delete.png"
         ],
-        "technologies": ["Html", "Css", "JavaScript", "React.js", "Webpack"]
+        "technologies": ["Html", "Css", "JavaScript", "Reactjs", "Webpack"]
     },
 
     "project14": {
