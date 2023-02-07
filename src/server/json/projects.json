@@ -40,7 +40,7 @@
     "project3": {
         "title": "Flex Panels Image Gallery",
         "description": "Sections with nice backgrounds that increase when the user moves the mouse over them, showing the rest of the text.",
-        "id": 12,
+        "id": 13,
         "github": "https://github.com/ButchBet/Flex-Panels-Image-Gallery",
         "live": "https://butchbet.github.io/Flex-Panels-Image-Gallery",
         "images": [
@@ -92,7 +92,7 @@
     "project6": {
         "title": "Playing With CSS Variables And JS",
         "description": "Sliders that will scale the value of fill, blur and color properties. ",
-        "id": 15,
+        "id": 16,
         "github": "https://github.com/ButchBet/Playing-with-CSS-variables-and-JS",
         "live": "https://butchbet.github.io/Playing-with-CSS-variables-and-JS",
         "images": [
@@ -127,7 +127,7 @@
     "project8": {
         "title": "Google Clone",
         "description": "Clone of Google graphical interface.",
-        "id": 14,
+        "id": 15,
         "github": "https://github.com/ButchBet/Google-Clone",
         "live": "https://butchbet.github.io/Google-Clone/",
         "images": [
@@ -141,7 +141,7 @@
     "project9": {
         "title": "Js And Css Clock",
         "description": "Clock that uses the Data() API to perform its respective movement shortened to the current time of the computer from which it is opened.",
-        "id":11,
+        "id": 12,
         "github": "https://github.com/ButchBet/JS-and-CSS-Clock",
         "live": "https://butchbet.github.io/JS-and-CSS-Clock",
         "images": [
@@ -165,7 +165,7 @@
     "project11": {
         "title": "QR Code Component Solution",
         "description": "Component to scan a QR code.",
-        "id": 13,
+        "id": 14,
         "github": "https://github.com/ButchBet/QR-code-component-solution",
         "live": "https://butchbet.github.io/QR-code-component-solution",
         "images": [
@@ -177,7 +177,7 @@
     "project12": {
         "title": "Platzi Main Interface ",
         "description": "One of the interfaces that Platzi had.",
-        "id": 16,
+        "id": 17,
         "github": "https://github.com/ButchBet/Platzi-main-interface",
         "live": "https://butchbet.github.io/Platzi-main-interface",
         "images": [
@@ -217,7 +217,7 @@
     "project15": {
         "title": "Hold Shift to Check Multiple Checkboxes",
         "description": "The name is really descriptive",
-        "id": 10,
+        "id": 11,
         "github": "https://github.com/ButchBet/Hold-Shift-to-Check-Multiple-Checkboxes",
         "live": "https://main--peppy-mousse-2ff35b.netlify.app/",
         "images": [
@@ -237,6 +237,17 @@
             "https://raw.githubusercontent.com/ButchBet/Custom-HTML5-video-player/main/src/assets/mobile.jpg"
         ],
         "technologies": ["Html", "Css", "JavaScript"]
+    },
+    "project17": {
+        "title": "Key Sequence detection",
+        "description": "A sequence validation porgram, I will change the letters to green when correct and red when worng.",
+        "id": 10,
+        "github": "https://github.com/ButchBet/Key-Sequence-Detection",
+        "live": "https://key-sequence-detection-butchbet.netlify.app/",
+        "images": [
+            "https://i.postimg.cc/fL0FQvrn/desktop.png",
+            "https://i.postimg.cc/2yRtkBsq/mobile.png"
+        ],
+        "technologies": ["Html", "Css", "JavaScript"]
     }
-    
 }
