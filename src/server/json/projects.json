@@ -240,7 +240,7 @@
     },
     "project17": {
         "title": "Key Sequence detection",
-        "description": "A sequence validation porgram, I will change the letters to green when correct and red when worng.",
+        "description": "A sequence validation program, It will change the letters to green when correct and red when worng.",
         "id": 10,
         "github": "https://github.com/ButchBet/Key-Sequence-Detection",
         "live": "https://key-sequence-detection-butchbet.netlify.app/",
