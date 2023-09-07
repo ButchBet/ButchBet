@@ -12,13 +12,13 @@ const About = () => {
             <section className="category__item category--about" id="about">            
                 <h2 className="category__title">Can I help you?</h2>
                 
-                <p className="category__text">If you need to mock up, style, add interactivity, or create a front-end for your website, you've come to a good place.</p>
+                <p className="category__text">If you need assistance with level 1 tech support tasks or want to design, style, add interactivity, or create a frontend for your website, you've come to the right place. I'm here to provide comprehensive solutions for your technical challenges and frontend development needs.</p>
                 
                 <h2 className="category__title">A few words about me</h2>
                 
-                <p className="category__text">Like all creatives, I am always thinking about the best way to improve a website, constantly learning about topics that are eating away at my head and excited to generate knowledge on my own.</p>
+                <p className="category__text">Like all creatives, I am always thinking about learning in a deeper way, constantly learning about topics that are eating away at my head and excited to generate knowledge on my own.</p>
                 
-                <p className="category__text">Apart from web development, I like the field of customer service. I found it working in my last job, trying to find the best way to improve people's lives, with quick solutions and assertive answers.</p>
+                <p className="category__text">Apart from web development, I like the field of tech support. I found it working in my last job, trying to find the best way to improve people's lives, with quick solutions and assertive answers.</p>
                 
                 <p className="category__text">When I'm not reading, I'm elbowing. And when I'm not jogging, I'm spending time with loved ones or working out.</p>
                 

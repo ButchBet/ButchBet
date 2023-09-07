@@ -12,7 +12,7 @@ const Presentation = () => {
                 </h1>
                 
                 <p className="presentation__text mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0 category__text">
-                    I am a web developer, self-learning oriented. I think that taking ownership of our learning is crucial and I share the idea with Jim Rohn: formal education will give you a way to make a living. Self-education will make you a fortune.
+                I am a versatile tech support and software developer dedicated to providing effective solutions for your technical needs. In this constantly evolving technological landscape, I wholeheartedly embrace ongoing learning to provide you with comprehensive support. My goal is to not only resolve issues but also elevate your digital experiences, ensuring a seamless and enriched journey through the digital realm.
                 </p>
             </div>
         </main>
